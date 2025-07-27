@@ -1,1 +1,1 @@
-# music_generation_MIDI
+# music generation MIDI
